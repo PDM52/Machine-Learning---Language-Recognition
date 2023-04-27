@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class Perceptron:
     def __init__(self, l, t):
         self.type = t
